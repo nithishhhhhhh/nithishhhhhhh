@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nithish.
+- 👋 Hi, I’m Nithish Jakkampudi.
 - 👀 I’m interested in NLP, Deep learning and Machine Learning Projects.
 - 🌱 I’m currently pursuing my Masters in University of North Carolina at Charlotte.
 - 💞️ I’m looking to collaborate on open projects on any of AI,Ml,NLP and Deep Learning domain.
