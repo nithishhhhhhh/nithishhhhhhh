@@ -17,17 +17,6 @@ I'm passionate about **Data Engineering, Cloud Computing, Artificial Intelligenc
 - 🤝 Open to collaborating on interesting projects and open-source contributions
 - ⚡ Fun fact: I enjoy experimenting with new tools and turning ideas into working projects!
 
-### 🛠️ Tech Stack
-
-**Programming:** Python, SQL
-
-**Cloud Platforms:** AWS, Microsoft Azure
-
-**Data Engineering:** Snowflake, Azure Data Factory, ETL/ELT, Data Pipelines
-
-**AI & Analytics:** Machine Learning, Generative AI, LLMs, Data Analytics
-
-**Tools:** Git, GitHub, Excel, Tableau
 
 ### 🌱 What I'm Exploring
 
